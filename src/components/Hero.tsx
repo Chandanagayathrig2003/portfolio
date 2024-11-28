@@ -39,7 +39,7 @@ const Hero = () => {
           <div className="relative">
             <div className="absolute -inset-1 bg-blue-500 rounded-full blur opacity-30 animate-pulse"></div>
             <img
-              src="/public/images/bhavya-profile.jpg"
+              src="/images/bhavya-profile.jpg"
               alt="Bhavya Bansal"
               className="relative w-64 h-64 md:w-80 md:h-80 rounded-full object-cover border-4 border-blue-500"
             />
